@@ -15,6 +15,5 @@ def square2(n):
 def square3(n):
     return pow(n, 2)
 
-
 main()
 
